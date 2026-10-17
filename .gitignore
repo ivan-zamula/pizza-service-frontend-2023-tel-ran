@@ -1,0 +1,10 @@
+# Local editor settings and generated output
+.idea/
+*.iml
+.vscode/
+target/
+out/
+*.class
+node_modules/
+build/
+.DS_Store
